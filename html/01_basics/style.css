@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 20px;
+  font-family: "Inter", sans-serif;
+}
+.home-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form-container {
+  border: 2px solid black;
+  padding: 14px;
+  border-radius: 9px;
+}
+
+img {
+  height: 95vh;
+  width: 100vh;
+}
